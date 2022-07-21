@@ -12,7 +12,12 @@
 2. list two
 3. list three
 
-
+1
 * list one
 * list two
 * list three
+
+## Image
+Подсказка
+
+![hint](hint.jpg)
