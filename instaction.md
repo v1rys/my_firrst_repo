@@ -1,3 +1,3 @@
-# Instraction for work MarcDown
+# Instruction for work MarcDown
 
 это обычный текст
